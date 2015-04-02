@@ -18,4 +18,4 @@ IBM Corp.
     android:clickable="true"
     tools:context=".ClientConnections" >
 
-</ListView><!-- From: file:/home/xiang/work/demo/PahoAndroidSample/app/src/main/res/layout/client_connections.xml -->
+</ListView><!-- From: file:/home/xiang/work/demo/MQTTAndroidSamples/PahoAndroidSample/app/src/main/res/layout/client_connections.xml -->

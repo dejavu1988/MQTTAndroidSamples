@@ -132,4 +132,4 @@ IBM Corp.
         android:text="@string/empty" />
 </LinearLayout>
 </RelativeLayout>
-<!-- From: file:/home/xiang/work/demo/PahoAndroidSample/app/src/main/res/layout/activity_publish.xml -->
+<!-- From: file:/home/xiang/work/demo/MQTTAndroidSamples/PahoAndroidSample/app/src/main/res/layout/activity_publish.xml -->

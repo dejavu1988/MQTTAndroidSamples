@@ -30,6 +30,8 @@ import android.util.Log;
 
 public class MQTTservice extends Service
 {
+    private final String MQTT_BROKER_HOST = "192.168.1.44";
+    private final int MQTT_BROKER_PORT = 1888;
 	private static boolean serviceRunning = false;
 	private static int mid = 0;
 	private static MQTTConnection connection = null;
@@ -236,8 +238,8 @@ public class MQTTservice extends Service
 		
 		private class MsgHandler extends Handler implements MqttCallback
 		{
-		    private final String HOST = "iot.eclipse.org";
-		    private final int PORT = 1883;  
+		    private final String HOST = MQTT_BROKER_HOST;
+		    private final int PORT = MQTT_BROKER_PORT;
 		    private final String uri = "tcp://" + HOST + ":" + PORT;
 			private final int MINTIMEOUT = 2000;
 			private final int MAXTIMEOUT = 32000;

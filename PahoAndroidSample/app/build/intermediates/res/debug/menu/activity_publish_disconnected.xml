@@ -18,4 +18,4 @@ IBM Corp.
         android:title="@string/publish" />
        <item android:id="@+id/connectMenuOption" android:title="@string/connect" android:showAsAction="ifRoom"></item>
 </menu>
-<!-- From: file:/home/xiang/work/demo/PahoAndroidSample/app/src/main/res/menu/activity_publish_disconnected.xml -->
+<!-- From: file:/home/xiang/work/demo/MQTTAndroidSamples/PahoAndroidSample/app/src/main/res/menu/activity_publish_disconnected.xml -->

@@ -14,4 +14,4 @@ IBM Corp.
     android:id="@+id/pager"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ConnectionDetails" /><!-- From: file:/home/xiang/work/demo/PahoAndroidSample/app/src/main/res/layout/activity_connection_details.xml -->
+    tools:context=".ConnectionDetails" /><!-- From: file:/home/xiang/work/demo/MQTTAndroidSamples/PahoAndroidSample/app/src/main/res/layout/activity_connection_details.xml -->

@@ -12,4 +12,4 @@ IBM Corp.
  <menu xmlns:android="http://schemas.android.com/apk/res/android">
 <item android:id="@+id/disconnect" android:title="@string/Disconnect" android:showAsAction="ifRoom"></item>
 </menu>
-<!-- From: file:/home/xiang/work/demo/PahoAndroidSample/app/src/main/res/menu/activity_connection_details.xml -->
+<!-- From: file:/home/xiang/work/demo/MQTTAndroidSamples/PahoAndroidSample/app/src/main/res/menu/activity_connection_details.xml -->

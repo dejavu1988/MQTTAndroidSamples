@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/xiang/work/demo/PahoAndroidSample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/home/xiang/work/demo/MQTTAndroidSamples/PahoAndroidSample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
@@ -146,10 +146,10 @@
     <integer name="abc_config_activityDefaultDur">220</integer>
     <integer name="abc_config_activityShortDur">150</integer>
     <integer name="abc_max_action_buttons">2</integer>
-    <!-- From: file:/home/xiang/work/demo/PahoAndroidSample/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/home/xiang/work/demo/MQTTAndroidSamples/PahoAndroidSample/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="Disconnect">Disconnect</string>
-    <!-- From: file:/home/xiang/work/demo/PahoAndroidSample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/home/xiang/work/demo/MQTTAndroidSamples/PahoAndroidSample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -167,7 +167,7 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <!-- From: file:/home/xiang/work/demo/PahoAndroidSample/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/home/xiang/work/demo/MQTTAndroidSamples/PahoAndroidSample/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="advanced">Advanced Options</string>
     <string name="advancedShort">Advanced</string>
@@ -251,10 +251,10 @@
     <string name="unkown_error">Unknown Error</string>
     <string name="willMessage">Set Last Will Message</string>
     <string name="willMessageShort">Last Will</string>
-    <!-- From: file:/home/xiang/work/demo/PahoAndroidSample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/home/xiang/work/demo/MQTTAndroidSamples/PahoAndroidSample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/>
-    <!-- From: file:/home/xiang/work/demo/PahoAndroidSample/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/home/xiang/work/demo/MQTTAndroidSamples/PahoAndroidSample/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
@@ -266,7 +266,7 @@
     <style name="AppTheme" parent="AppBaseTheme">
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
     </style>
-    <!-- From: file:/home/xiang/work/demo/PahoAndroidSample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
+    <!-- From: file:/home/xiang/work/demo/MQTTAndroidSamples/PahoAndroidSample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.Animation.AppCompat.DropDownUp" parent="android:Animation">
         <item name="android:windowEnterAnimation">@anim/abc_grow_fade_in_from_bottom</item>

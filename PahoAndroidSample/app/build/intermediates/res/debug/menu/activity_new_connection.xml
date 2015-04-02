@@ -20,4 +20,4 @@ IBM Corp.
         android:showAsAction="ifRoom" 
         android:titleCondensed="@string/advancedShort"/>
 </menu>
-<!-- From: file:/home/xiang/work/demo/PahoAndroidSample/app/src/main/res/menu/activity_new_connection.xml -->
+<!-- From: file:/home/xiang/work/demo/MQTTAndroidSamples/PahoAndroidSample/app/src/main/res/menu/activity_new_connection.xml -->
