@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- 
+<?xml version="1.0" encoding="utf-8"?><!--
 Licensed Materials - Property of IBM
 
 5747-SM3
@@ -16,6 +15,6 @@ IBM Corp.
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:clickable="true"
-    tools:context=".ClientConnections" >
+    tools:context=".ClientConnections">
 
 </ListView>
