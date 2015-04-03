@@ -16,10 +16,8 @@
 */.gradle/
 */build/
 */*/build/
-*/.idea
-*.iml
-*.ipr
-*.iws
+*/.idea/workspace.xml
+*/.idea/libraries
 
 # Local configuration file (sdk path, etc)
 */local.properties
